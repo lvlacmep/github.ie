@@ -14,13 +14,10 @@ div#allotment h2 {
   color: orange;
 }
 div#warehouse h2 {
-  color: orange;
+  color: blue;
 }
 ol.vegetables-list {
   color: red;
-}
-/*ul {*/
-/*  font-weight: bold;*/
 }
 div#allotment .fruits-list {
   color: grey;
@@ -37,4 +34,10 @@ div#warehouse .fruits-list {
 div#warehouse .vegetable-list {
   color: red;
   font-weight: none;
+}
+thead {
+  font-weight: bold;
+}
+tbody td:nth-child {
+  color: yellow;
 }

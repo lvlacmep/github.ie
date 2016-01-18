@@ -1,6 +1,6 @@
    a[href^="http://"]  {
     color: #f70; /* Цвет ссылок */
 }
-a[google]  {
+a["google"]  {
     color: #666; /* Цвет ссылок */
 }

@@ -5,3 +5,7 @@ em {
     background-color: green;
     color: white;
 }
+p:first-letter {
+  font-size: 30px;
+  color: red;
+}

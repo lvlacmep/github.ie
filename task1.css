@@ -10,3 +10,6 @@ p:first-letter {
   font-size: 30px;
   color: red;
 }
+div#allotment h2 {
+  color: orange;
+}

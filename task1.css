@@ -19,10 +19,22 @@ div#warehouse h2 {
 ol.vegetables-list {
   color: red;
 }
-ul > li {
+ul {
   font-weight: bold;
 }
 div#allotment .fruits-list {
   color: grey;
+  font-weight: none;
+}
+div#allotment .vegetable-list {
+  color: red;
+  font-weight: none;
+}
+div#warehouse .fruits-list {
+  color: green;
+  font-weight: none;
+}
+div#warehouse .vegetable-list {
+  color: red;
   font-weight: none;
 }

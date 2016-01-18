@@ -13,3 +13,9 @@ p:first-letter {
 div#allotment h2 {
   color: orange;
 }
+div#warehouse h2 {
+  color: orange;
+}
+ol.fruits-list {
+  color: red;
+}

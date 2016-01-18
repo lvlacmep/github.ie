@@ -11,6 +11,6 @@ h1 {
 #warehouse {
     color: blue;
 }
-.li>.ol {
+.ul > .li {
   color: black;
 }

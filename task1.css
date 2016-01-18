@@ -19,7 +19,7 @@ div#warehouse h2 {
 ol.vegetables-list {
   color: red;
 }
-ul li:first-line {
+ul>li:first-line {
   font-weight: bold;
 }
 div#allotment .fruits-list {

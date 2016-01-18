@@ -44,3 +44,6 @@ thead {
 tbody tr td:first-child {
   color: orange;
 }
+tbody tr td:not(first-child) {
+  background-color: green;
+}

@@ -46,4 +46,5 @@ tbody tr td:first-child {
 }
 tbody>tr>td:not(first-child) {
   background-color: green;
+  color: white;
 }

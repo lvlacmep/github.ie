@@ -4,3 +4,6 @@
 a[href="http://ya.ru"]  {
     color: #666; /* Цвет ссылок */
 }
+a[target="_blank"]:after {
+   content: '&#x21F1';
+}

@@ -19,3 +19,6 @@ div#warehouse h2 {
 ol.vegetables-list {
   color: red;
 }
+div > ul > li {
+  font-weight: bold;
+}

@@ -45,7 +45,7 @@ thead {
 tbody tr td:first-child {
   color: orange;
 }
-tbody>tr>td:not(first-child) {
+tbody>tr>td:nth-child(2) {
   background-color: green;
   color: white;
   text-align: center;

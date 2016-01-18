@@ -40,6 +40,7 @@ div#warehouse .vegetable-list {
 }
 thead {
   font-weight: bold;
+  text-align: center;
 }
 tbody tr td:first-child {
   color: orange;
@@ -47,4 +48,5 @@ tbody tr td:first-child {
 tbody>tr>td:not(first-child) {
   background-color: green;
   color: white;
+  text-align: center;
 }

@@ -38,6 +38,6 @@ div#warehouse .vegetable-list {
 thead {
   font-weight: bold;
 }
-tbody tr td:nth-child {
+tbody tr td:first-child {
   color: yellow;
 }

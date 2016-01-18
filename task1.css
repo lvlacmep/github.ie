@@ -22,7 +22,7 @@ ol.vegetables-list {
 ul > li {
   font-weight: bold;
 }
-div.plants-list .fruits-list {
+div#allotment .fruits-list {
   color: grey;
   font-weight: none;
 }

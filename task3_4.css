@@ -1,7 +1,7 @@
    a[href^="http"]  {
     color: #f70; /* Цвет ссылок */
 }
-a[href~="ya.ru"]  {
+a[href*="google"]  {
     color: #666; /* Цвет ссылок */
 }
 a[target="_blank"]:after {

@@ -15,7 +15,7 @@ color: white;
 input[type=checkbox] {
   visibility: hidden;
 }
-label#red {
+#red {
   color: red;
   text-decoration: underline;
 }

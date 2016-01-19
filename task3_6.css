@@ -27,6 +27,6 @@ label[for=blue] {
   color: blue;
   text-decoration: underline;
 }
-label[for=red]:visited ~ .red {
+label[for=red]:focus ~ .red {
   visibility: hidden;
 }

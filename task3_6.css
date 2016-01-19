@@ -27,3 +27,6 @@ label[for=blue] {
   color: blue;
   text-decoration: underline;
 }
+label[for=red]:visited ~ .red {
+  visibility: hidden;
+}

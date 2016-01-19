@@ -4,7 +4,7 @@
 a[href*="google"]  {
     color: #666; /* Цвет ссылок */
 }
-a[target="_blank"]:after {
-   content: ' \21F1';
-   text-decoration: none;
+a[target]:after { 
+content: ' \21F1'; 
+text-decoration: none; 
 }

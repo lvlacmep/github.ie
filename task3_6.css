@@ -1,7 +1,7 @@
 span {
 padding: 2px 5px 2px 5px;
 border-radius: 7px;
-
+color: white;
 }
 .red {
   background-color: red;
@@ -12,6 +12,10 @@ border-radius: 7px;
 .blue {
   background-color: blue;
 }
-input {
-  visibility: hidden;
+/*input {*/
+/*  visibility: hidden;*/
+/*}*/
+#red {
+  color: red;
+  text-decoration: underline;
 }

@@ -1,5 +1,14 @@
 span {
 padding: 2px 5px 2px 5px;
 border-radius: 7px;
-background-color: red;
+
+}
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
 }

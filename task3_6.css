@@ -19,3 +19,11 @@ label[for=red] {
   color: red;
   text-decoration: underline;
 }
+label[for=green] {
+  color: green;
+  text-decoration: underline;
+}
+label[for=blue] {
+  color: blue;
+  text-decoration: underline;
+}

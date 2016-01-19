@@ -30,9 +30,9 @@ label[for=blue] {
 input#red:checked ~ .red {
   display:none;
 }
-input#red:checked ~ .green {
+input#green:checked ~ .green {
   display:none;
 }
-input#red:checked ~ .blue {
+input#blue:checked ~ .blue {
   display:none;
 }

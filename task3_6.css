@@ -37,5 +37,5 @@ input#blue:checked ~ .blue {
   display:none;
 }
 input#red:checked {
-font-weight: lighter;
+font-weight: bold;
 }

@@ -36,3 +36,6 @@ input#green:checked ~ .green {
 input#blue:checked ~ .blue {
   display:none;
 }
+input:checked {
+font-weight: lighter;
+}

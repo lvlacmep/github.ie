@@ -1,1 +1,3 @@
-
+tr:first-child>td:nth-child(even), tr:nth-child(even)>td:nth-child(even) {
+  background-color: #ddebf7;
+}

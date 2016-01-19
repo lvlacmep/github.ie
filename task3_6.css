@@ -27,6 +27,6 @@ label[for=blue] {
   color: blue;
   text-decoration: underline;
 }
-label[for=red]:focus ~ .red {
+input#red:checked ~ .red {
   visibility: hidden;
 }

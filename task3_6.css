@@ -12,6 +12,6 @@ border-radius: 7px;
 .blue {
   background-color: blue;
 }
-.checkbox {
+input {
   visibility: hidden;
 }

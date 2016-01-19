@@ -12,9 +12,9 @@ color: white;
 .blue {
   background-color: blue;
 }
-/*input {*/
-/*  visibility: hidden;*/
-/*}*/
+input[type=checkbox] {
+  visibility: hidden;
+}
 label#red {
   color: red;
   text-decoration: underline;

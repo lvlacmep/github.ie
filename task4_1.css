@@ -1,5 +1,8 @@
 div {
 background-color: #a64dff;
-display: inline-block;
+
 }
 
+li {
+display: inline-block;  
+}

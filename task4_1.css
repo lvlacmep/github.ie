@@ -1,3 +1,6 @@
 div {
 background-color: #a64dff;
 }
+ul {
+  display: inline-block;
+}

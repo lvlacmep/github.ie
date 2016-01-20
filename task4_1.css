@@ -8,5 +8,6 @@ font-weight: lighter;
 }
 
 li {
-display: inline-block;  
+display: inline-block;
+padding: 5px 20px;
 }

@@ -17,5 +17,5 @@ padding: 8px 17px;
 li:hover {
   color: #9faabc; /* Цвет текста активного пункта */
   background-color: #eee; /* Цвет фона активного пункта */
-  box-shadow: 0 0 5px;
+  box-shadow: 5px 5px;
 }

@@ -1,4 +1,21 @@
 h1 {
-font-family: Impact;
-font-size: 20px;
+font-family: Tahoma;
+font-size: 30px;
+}
+.left-column {
+    float: left;
+    width: 50%;
+    /*min-height: 100px;*/
+
+}
+
+.right-column {
+    float: right;
+    width: 25%;
+    /*min-height: 100px;*/
+    /*background-color: #d9edf7;*/
+}
+
+.footer {
+    clear: both;
 }

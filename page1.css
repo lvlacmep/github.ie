@@ -19,3 +19,24 @@ font-size: 30px;
 .footer {
     clear: both;
 }
+div.menu {
+background-color: #a64dff;
+
+font-family: Impact;
+font-size: 20px;
+color: white;
+box-shadow: 0 0 5px #e2e2e2;
+}
+ul {
+  width: 900px;
+}
+
+li {
+display: inline-block;
+padding: 8px 17px;
+}
+li:hover {
+  color: #9faabc; /* Цвет текста активного пункта */
+  background-color: #eee; /* Цвет фона активного пункта */
+  box-shadow: 5px 5px;
+}

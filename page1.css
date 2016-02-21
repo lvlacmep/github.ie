@@ -6,22 +6,13 @@ font-size: 30px;
     float: left;
     width: 50%;
     max-height: 300px;
-
 }
-
 .right-column {
     float: right;
-    /*width: 10%;*/
     max-height: 300px;
-    /*background-color: #d9edf7;*/
-}
-
-.footer {
-    clear: both;
 }
 div.menu {
 background-color: #a64dff;
-
 font-family: Tahoma;
 font-size: 20px;
 color: white;
@@ -30,7 +21,6 @@ box-shadow: 0 0 5px #e2e2e2;
 ul {
   width: 900px;
 }
-
 li {
 display: inline-block;
 padding: 8px 17px;

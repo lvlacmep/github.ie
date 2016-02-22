@@ -30,3 +30,8 @@ li:hover {
   background-color: #eee; /* Цвет фона активного пункта */
   box-shadow: 5px 5px;
 }
+li a {
+    text-decoration: none;
+}
+
+}

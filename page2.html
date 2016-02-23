@@ -3,7 +3,9 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>Страница 2</title>
-    <link rel="stylesheet" type="text/css" href="page1.css">
+    <link rel="stylesheet" href="page1.css">
+    <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <div class="menu">
@@ -14,7 +16,10 @@
     </ul>
 </div>
 <h1>Таблица1. Список комплектующих</h1>
-<table>
+<div class="table" >
+<input type="text" placeholder="Найти..." id="field"/>
+<button type="button" id="btn">Найти</button>
+    <table class="table-class" id="mytable">   
     <thead>
         <tr>
             <td>№</td>

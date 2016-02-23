@@ -1,6 +1,6 @@
 $(document).ready(function(){
     jQuery.expr[":"].contains = function( elem, i, match, array ) {
-    return (elem.textContent || elem.innerText || jQuery.text( elem ) || "").toLowerCase().indexOf(match[3].toLowerCase()) >= 0;
+    return (elem.textContent || elem.innerText || jQuery.text( elem ) || "").toLowerCase().indexOf(match[3].toLowerCase()) >= 0;}
     var table=$('.table-class').html();
     $('#btn').click(function(){ 
 	if ($('#field').val() == ''){alert('Пустое поле');} 
